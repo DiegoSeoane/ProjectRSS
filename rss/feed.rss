@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>IDE</title>
+        <description>News about different IDEs</description>
+        <link>https://diegoseoane.github.io/ProjectRSS/</link>
+        <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+        <managingEditor>a22diegosg@iessanclemente.net</managingEditor>
+        <item>
+            <title>Eclipse</title>
+            <link>https://diegoseoane.github.io/ProjectRSS/eclipse.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks on Eclipse</description>
+        </item>
+        <item>
+            <title>NetBeans</title>
+            <link>https://diegoseoane.github.io/ProjectRSS/netbeans.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks on NetBeans</description>
+        </item>
+        <item>
+            <title>VS Studio</title>
+            <link>https://diegoseoane.github.io/ProjectRSS/vscode.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks on vs code</description>
+        </item>
+    </channel>
+</rss>
